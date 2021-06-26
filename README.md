@@ -2,8 +2,10 @@
 
 ### A Google Chrome Extension for detecting fake political news online
 
-- Uses passive aggressive classifier for classifying news articles
-- Backend hosted at https://fake-news-flask.herokuapp.com/predict
+-   Uses passive aggressive classifier for classifying news articles
+-   Genuine news is highlighted with green colour
+-   Fake news is highlighted with red colour
+-   Backend hosted at https://fake-news-flask.herokuapp.com/predict
 
 ![Genuine News 1](./sample_images/R1C.png "A genuine news article is highlighted with green color")
 

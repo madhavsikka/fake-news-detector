@@ -1,0 +1,24 @@
+#container {
+    width: 3.5cm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#heading {
+    text-align: center;
+}
+
+#detect {
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#detect:active {
+    background-color: grey;
+}
